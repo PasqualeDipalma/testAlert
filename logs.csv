@@ -22,3 +22,4 @@ Data,Microservizio,Messaggio
 02-10-2025 18-42-02,MLOPS_ORCHESTRATOR,MLOPS_ORCHESTRATOR machine has failed delta seconds check!
 02-10-2025 18-42-05,TRAINING,TRAINING machine has failed delta seconds check!
 10-10-2025 12-00-13,MASSIVE_EVAL,MASSIVE_EVAL machine has failed delta seconds check!
+10-10-2025 13-30-12,RETRAIN_DECISIONER,RETRAIN_DECISIONER machine has failed delta seconds check!
